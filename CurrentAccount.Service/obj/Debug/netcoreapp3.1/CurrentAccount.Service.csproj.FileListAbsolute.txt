@@ -1,0 +1,12 @@
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\bin\Debug\netcoreapp3.1\CurrentAccount.Service.deps.json
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\bin\Debug\netcoreapp3.1\CurrentAccount.Service.dll
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\obj\Debug\netcoreapp3.1\CurrentAccount.Service.csprojAssemblyReference.cache
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\obj\Debug\netcoreapp3.1\CurrentAccount.Service.AssemblyInfoInputs.cache
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\obj\Debug\netcoreapp3.1\CurrentAccount.Service.AssemblyInfo.cs
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\bin\Debug\netcoreapp3.1\CurrentAccount.Service.pdb
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\bin\Debug\netcoreapp3.1\CurrentAccount.Data.dll
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\bin\Debug\netcoreapp3.1\CurrentAccount.Data.pdb
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\obj\Debug\netcoreapp3.1\CurrentAccount.Service.csproj.CoreCompileInputs.cache
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\obj\Debug\netcoreapp3.1\CurrentAccount.Service.csproj.CopyComplete
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\obj\Debug\netcoreapp3.1\CurrentAccount.Service.dll
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.Service\obj\Debug\netcoreapp3.1\CurrentAccount.Service.pdb

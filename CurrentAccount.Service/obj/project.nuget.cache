@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "afRhSgnSvG4xOX/1WGR7MRHiuHs34z8C9PiTKNiwW1DJS5A/i6c4k3AZf/9c8Pd+Nlqpx88cj3Gu0D+36AlZ8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pehli\\source\\repos\\CurrentAccount\\CurrentAccount.Service\\CurrentAccount.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pehli\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\pehli\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\pehli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\pehli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\pehli\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\pehli\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

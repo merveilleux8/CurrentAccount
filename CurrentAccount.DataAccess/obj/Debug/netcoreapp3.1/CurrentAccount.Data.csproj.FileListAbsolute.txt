@@ -1,0 +1,9 @@
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\bin\Debug\netcoreapp3.1\CurrentAccount.Data.deps.json
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\bin\Debug\netcoreapp3.1\CurrentAccount.Data.dll
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\bin\Debug\netcoreapp3.1\CurrentAccount.Data.pdb
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\obj\Debug\netcoreapp3.1\CurrentAccount.Data.csprojAssemblyReference.cache
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\obj\Debug\netcoreapp3.1\CurrentAccount.Data.AssemblyInfoInputs.cache
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\obj\Debug\netcoreapp3.1\CurrentAccount.Data.AssemblyInfo.cs
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\obj\Debug\netcoreapp3.1\CurrentAccount.Data.csproj.CoreCompileInputs.cache
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\obj\Debug\netcoreapp3.1\CurrentAccount.Data.dll
+C:\Users\pehli\source\repos\CurrentAccount\CurrentAccount.DataAccess\obj\Debug\netcoreapp3.1\CurrentAccount.Data.pdb
